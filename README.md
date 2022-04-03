@@ -98,4 +98,3 @@ For this part of the assignment, complete the following steps:
 
 2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Include the recording or screenshots in the `README.md` file for your GitHub repository.
 
-Voila Screen Recording.mov
